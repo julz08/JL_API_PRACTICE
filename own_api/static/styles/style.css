@@ -1,0 +1,35 @@
+.page-margins{
+    margin: 5%
+}
+
+#title{
+    color:#104C7A;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Prompt, sans-serif;
+    background-color:aliceblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+#manga-pic{
+    height:800px;
+}
+
+#genres-tropes{
+    color:#104C7A;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Prompt, sans-serif;
+    background-color:aliceblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    display: inline-block;
+    box-sizing: border-box;
+}
